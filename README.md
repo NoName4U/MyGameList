@@ -11,6 +11,31 @@ No account, no install, no server. Your data stays in your own browser.
 ---
 
 
+<img width="1920" height="1080" alt="MGL Homepage" src="https://github.com/user-attachments/assets/953f2b7a-faf4-4908-8294-ef810eccbb6e" />
+
+<img width="1920" height="1080" alt="MGL Profile" src="https://github.com/user-attachments/assets/b8ac277f-ce3c-42df-8a5b-dbac71126010" />
+
+<img width="1920" height="1080" alt="MGL Game List All Page" src="https://github.com/user-attachments/assets/62f40323-b6a9-4f85-a08f-1c02ec9d892a" />
+
+<img width="1920" height="1080" alt="MGL Game List Completed" src="https://github.com/user-attachments/assets/983a5faf-f4d8-4f38-95d0-62b72d93492b" />
+
+<img width="622" height="813" alt="MGL Search" src="https://github.com/user-attachments/assets/1a4ff8c5-2b63-4067-ba62-777ed0641fb7" />
+
+<img width="1920" height="1080" alt="MGL Browse" src="https://github.com/user-attachments/assets/0345fc2c-b747-44eb-a79a-f6299a4a9f49" />
+
+<img width="538" height="496" alt="MGL Notification" src="https://github.com/user-attachments/assets/43bd9e3e-26b9-4c80-a121-30c836162ebb" />
+
+<img width="229" height="464" alt="MGL Settings" src="https://github.com/user-attachments/assets/d98098e3-eabb-4b32-b5c2-b23db93789d3" />
+
+<img width="736" height="751" alt="MGL Custom" src="https://github.com/user-attachments/assets/ef213643-d7d8-4c01-b8e0-64fa0979f544" />
+
+<img width="666" height="537" alt="MGL Minigames" src="https://github.com/user-attachments/assets/9a5f9d97-f94f-44aa-a545-12b23e931d6e" />
+
+
+
+---
+
+
 ## Quick start (30 seconds)
 
 
