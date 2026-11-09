@@ -17,7 +17,7 @@ No account, no install, no server. Your data stays in your own browser.
 - Custom Design settings, dark mode, holiday themes
 - Excel export and backups
 - News
-- Search, covers and the monthly releases tracker, all 3 through Wikipedia
+- Search, covers, and the monthly releases tracker, all 3 through Wikipedia
 
 
 ---
