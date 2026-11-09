@@ -11,6 +11,18 @@ No account, no install, no server. Your data stays in your own browser.
 ---
 
 
+# What works with no additional setup
+- Game list, reviews, backlog
+- Play calendar and profile
+- Custom Design settings, dark mode, holiday themes
+- Excel export and backups
+- News
+- Search, covers and the monthly releases tracker, all 3 through Wikipedia
+
+
+---
+
+
 <img width="1920" height="1080" alt="MGL Homepage" src="https://github.com/user-attachments/assets/953f2b7a-faf4-4908-8294-ef810eccbb6e" />
 
 <img width="1920" height="1080" alt="MGL Profile" src="https://github.com/user-attachments/assets/b8ac277f-ce3c-42df-8a5b-dbac71126010" />
@@ -48,20 +60,6 @@ To put it online, drag `index.html` onto any static host, for example [Netlify D
 
 
 > Your games are saved in the browser you use. Use **Settings > Backup & Restore** every now and then to save a backup file or even export it into an Excel sheet.
-
-
----
-
-
-## What works with no additional setup
-
-
-- Game list, reviews, backlog
-- Play calendar and profile
-- Custom Design settings, dark mode, holiday themes
-- Excel export and backups
-- News
-- Search, covers and the monthly releases tracker, all 3 through Wikipedia
 
 
 ---
